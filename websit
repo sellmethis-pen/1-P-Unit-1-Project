@@ -2,8 +2,19 @@
 <html>
 
 <head>
-    <h1></h1>
+    <h2><p style="font-family:cursive;">about me!!!!! ᓚᘏᗢ</p></h2>
 </head>
 
-<body style="background-color: lightpink;>
-
+<body style="background-color: rgb(255, 232, 236);">
+<p style="font-family:cursive;">hi i'm taylor, and i'm a junior at laguardia high school in new york city (^///^) </br>
+if you're reading this past october 22nd 2026, that means i'm 16, wahoo!</br></br>
+things to know about me~
+<ul>
+    <li><p style="font-family:cursive;">i love drawing, playing games online, baking, and sleeping (┬┬﹏┬┬)</p></li>
+    <li><p style="font-family:cursive;">my favorite animals include ferrets, cats, and bunnies</li>
+    <li><p style="font-family:cursive;">my favorite color is pink</li>
+    <li><p style="font-family:cursive;">i have a hard time waking up, causing me to be frequently late</li>
+    <li><p style="font-family:cursive;">i'm scared of the smiths (yes, the band) and butterflies, some moths, too</li>
+</ul>
+</p>
+</body>
